@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>两种方法配置热加载</title>
+  </head>
+  <body>
+    <h1>第一种： 直接在webpack-dev-server 加入--line --hot</h1>
+    <p>
+      --line 就是像服务器直接嵌入热加载模块
+    </p>
+    <p>
+      --hot 嵌入webpack-dev-server 运行时环境到bundle
+    </p>
+    <p>
+      --hot --inline also adds the webpack/hot/dev-server entry. 不懂咩意思
+    </p>
+    <h1>第二种： 配置文件改 如本列</h1>
+    <div id='root'></div>
+    <script src="/static/bundle.js"></script>
+  </body>
+</html>
