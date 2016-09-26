@@ -1,0 +1,19 @@
+{
+  "name": "webpacklearn",
+  "version": "1.0.0",
+  "description": "This is a copy lesson of ruanyifeng",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/NiceChat/Lib/webpack"
+  },
+  "keywords": [
+    "webpack",
+    "bable"
+  ],
+  "author": "Yanglei",
+  "license": "ISC"
+}
