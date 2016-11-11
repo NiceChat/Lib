@@ -11,5 +11,9 @@
     "demo"
   ],
   "author": "yangleilei",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
 }
