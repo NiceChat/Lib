@@ -1,0 +1,15 @@
+{
+  "name": "comments",
+  "version": "1.0.0",
+  "description": "This is a demo of react in officeWebsite.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "react",
+    "demo"
+  ],
+  "author": "yangleilei",
+  "license": "ISC"
+}
