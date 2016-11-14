@@ -1,6 +1,5 @@
 var CommentBox = React.createClass({
   loadCommentsFromServer: function() {
-    
     $.ajax({
       url: this.props.url,
       dataType: 'json',
